@@ -1,0 +1,17 @@
+{
+  "name": "low-impact-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android"
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "expo-status-bar": "~1.12.1",
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "react": "18.2.0",
+    "react-native": "0.76.0"
+  }
+}
