@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Low Impact Trainer",
+    "slug": "low-impact-trainer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.wolfspirit517.lowimpacttrainer"
+    }
+  }
+}
